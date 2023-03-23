@@ -47,7 +47,7 @@ dependencies {
 
     // OkHttp & GSON
     implementation 'com.squareup.okhttp3:okhttp:4.4.0'
-    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'com.google.code.gson:gson:2.10.1'
 
     // Alipay SDK
     implementation(name: "alipaySdk-15.7.4-20200228192259", ext: "aar")
